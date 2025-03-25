@@ -1,72 +1,89 @@
 # 🌟 Yateeswar Chennamsetti – AWS Cloud Architect
 
 ## 👨‍💻 About Me
-I am an **AWS Cloud Architect** with expertise in **cloud infrastructure design, serverless applications, and data-driven solutions**. With hands-on experience in **AWS services**, I specialize in building scalable, secure, and efficient cloud solutions to tackle real-world challenges.
+I am an **AWS Cloud Architect** with expertise in **cloud infrastructure design, serverless applications, and data-driven solutions**. I specialize in designing **scalable, secure, and efficient cloud architectures** to solve real-world business challenges.
+
+Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on optimizing cloud solutions for performance, cost efficiency, and security.
 
 ---
 
 ## 🔥 Technical Skills
+
 - **Cloud Platforms:** AWS (Lambda, S3, EC2, RDS, CloudWatch, CloudTrail, Rekognition, ELB, CloudFormation, WAF), Azure  
 - **Programming Languages:** Java, Python, R, C, C#  
 - **Databases:** Oracle SQL Server, MySQL  
-- **UI Technologies:** React, VueJS, Angular, JavaScript, HTML, CSS, TypeScript  
-- **Tools:** GIT, Jira, Jenkins, SQL Server Management Studio, Excel, Android Studio, Eclipse IDE, Visual Code  
+- **Frontend Technologies:** React, VueJS, Angular, JavaScript, HTML, CSS, TypeScript  
+- **DevOps & Tools:** Git, Jira, Jenkins, Docker, Terraform, SQL Server Management Studio, Eclipse, VS Code  
 
 ---
 
-## 🚀 AWS Cloud Projects
+## 🚀 Projects
+
 ### ✅ **Scalable & Secure AWS Cloud Infrastructure for Healthcare SaaS**
-- Achieved **~99.95% uptime** using AWS Auto Scaling, ELB for traffic distribution, and Multi-AZ RDS for fault tolerance.  
-- Reduced infrastructure provisioning time by **70%** using **CloudFormation & Terraform** for automated deployments.  
-- Enhanced security with **IAM & AWS WAF**, enforcing least privilege access and mitigating cyber threats.  
-- Improved disaster recovery time by **80%** using **AWS Backup & automated RDS Multi-AZ failover**.  
+- Achieved **99.95% uptime** using **AWS Auto Scaling, ELB, and Multi-AZ RDS** for fault tolerance.
+- Reduced infrastructure provisioning time by **70%** using **CloudFormation & Terraform**.
+- Strengthened security with **IAM & AWS WAF**, enforcing least privilege access and mitigating cyber threats.
+- Improved disaster recovery time by **80%** using **AWS Backup & automated RDS Multi-AZ failover**.
+- 🔗 **[GitHub Repository](https://github.com/chyateeswar4/aws-healthcare-saas)**  
 
 ### ✅ **Intelligent Serverless Image Recognition on AWS**
-- Reduced manual inspection time by **90%** by automating image-based quality checks with **AWS Rekognition**.  
-- Achieved **~95% processing efficiency** using **AWS SQS and Dead Letter Queues (DLQ)** for smooth handling of concurrent analyses.  
-- Optimized data retention by automating lifecycle policies in **S3**, archiving inspection records in **Amazon Glacier**.  
-- Enhanced monitoring with **IAM, CloudWatch, and SNS notifications**, providing real-time logs and audit tracking.  
+- Reduced manual inspection time by **90%** using **AWS Rekognition** for automated image-based quality checks.
+- Achieved **~95% processing efficiency** using **AWS SQS and DLQ** for concurrent analyses.
+- Optimized data retention with **S3 lifecycle policies**, archiving inspection records in **Amazon Glacier**.
+- Integrated **real-time monitoring with CloudWatch, IAM, and SNS notifications**.
+- 🔗 **[GitHub Repository](https://github.com/chyateeswar4/aws-serverless-image-recognition)**
 
-### ✅ **Heart Disease Prediction Model (Random Forest)**  
-- Designed and implemented a **predictive model** leveraging the Random Forest algorithm to analyze medical data and predict heart disease risks.  
-- Enhanced data quality through **comprehensive preprocessing** (cleaning data, handling missing values, and feature engineering).  
-- Achieved high accuracy by fine-tuning hyperparameters, contributing to **early diagnosis and preventive healthcare measures**.  
+### ✅ **Heart Disease Prediction Model (Random Forest)**
+- Developed a **predictive model** leveraging **Random Forest** to analyze medical data for early heart disease detection.
+- Enhanced data quality with **comprehensive preprocessing** (cleaning data, handling missing values, and feature engineering).
+- Improved model accuracy with hyperparameter tuning, contributing to **preventive healthcare measures**.
+- Built an **interactive Streamlit web app** for real-time risk assessments.
+- 🔗 **[GitHub Repository](https://github.com/chyateeswar4/heart-disease-prediction)**
 
 ---
 
-## 💻 Academic Projects
-### 💡 [**AI-Powered Heart Attack Prediction Using Machine Learning**](https://github.com/chyateeswar4/heart-attack-prediction)
-- Developed an AI-powered predictive model for **heart attack risk assessment** using a dataset of 80,000+ records.  
-- Built an **interactive Streamlit web application** for real-time risk assessments.  
-- Achieved **87% accuracy** in non-heart attack classification and **75% accuracy** for heart attack detection using **Random Forest, SVM, Logistic Regression, and GBM** models.  
-- Improved model reliability by addressing **data imbalance with SMOTE and undersampling**.  
+## 💼 Work Experience
 
-### 💡 [**Scalable & Secure AWS Cloud Infrastructure for Healthcare SaaS**](https://github.com/chyateeswar4/aws-healthcare-saas)
-- Achieved **high availability (~99.95% uptime)** using AWS Auto Scaling, ELB for traffic distribution, and Multi-AZ RDS for fault tolerance.  
-- Reduced infrastructure provisioning time by **70%** using **AWS CloudFormation & Terraform**.  
-- Enhanced data security with **IAM & AWS WAF**, enforcing least privilege access and mitigating cyber threats.  
-- Improved disaster recovery time by **80%** using **AWS Backup & automated RDS Multi-AZ failover**.  
+### **AWS Cloud Architect | [Your Company Name] | [Dates]**
+- Designed and deployed **highly available, secure cloud architectures** using AWS services.
+- Led **cloud migration projects**, optimizing infrastructure for **scalability and cost-efficiency**.
+- Implemented **serverless solutions** using AWS Lambda, API Gateway, and DynamoDB.
+- Automated **CI/CD pipelines** using Jenkins and AWS CodePipeline.
 
-### 💡 [**Intelligent Serverless Image Recognition on AWS**](https://github.com/chyateeswar4/aws-serverless-image-recognition)
-- Reduced manual inspection time by **90%** through automated image-based quality checks with **AWS Rekognition**.  
-- Achieved **~95% processing efficiency** using **AWS SQS and DLQ** for concurrent image analyses.  
-- Optimized data retention by archiving inspection records in **Amazon Glacier** using S3 lifecycle policies.  
-- Enhanced security with **IAM, CloudWatch, and SNS notifications** for real-time monitoring and anomaly detection.  
+### **Cloud Engineering Intern | [Previous Company] | [Dates]**
+- Assisted in **cloud resource optimization**, reducing AWS costs by **25%**.
+- Developed **automated security policies** using AWS IAM and CloudTrail.
 
-### 💡 [**Heart Disease Prediction Model (Random Forest)**](https://github.com/chyateeswar4/heart-disease-prediction)
-- Designed a predictive model using **Random Forest** to analyze medical data and predict heart disease risks.  
-- Enhanced data quality with **preprocessing techniques**, including data cleaning, handling missing values, and feature engineering.  
-- Improved model accuracy by fine-tuning hyperparameters, contributing to **early diagnosis and preventive healthcare**.  
+---
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate**  
+- **AWS Certified Developer – Associate**  
+- **Terraform Associate Certification**  
+
+---
+
+## ✍️ Technical Blog & Open Source Contributions
+
+I actively share my insights on **cloud computing, DevOps, and AI/ML** through blog posts and open-source contributions.
+
+- 📝 **[Medium Blog](https://medium.com/@yourprofile)** – Articles on AWS, DevOps, and Cloud Security  
+- 🏗️ **[GitHub Contributions](https://github.com/chyateeswar4)** – Open-source AWS & ML projects  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chyateeswar4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</p>  
+
+🔗 **Check out my GitHub:** [github.com/chyateeswar4](https://github.com/chyateeswar4)  
 
 ---
 
 ## 🌐 Connect with Me
-- 📧 **Email:** [chennamsetti.y@northeastern.edu](mailto:chennamsetti.y@northeastern.edu)  
-- 🔗 **LinkedIn:** [Yateeswar Chennamsetti](https://www.linkedin.com/in/yateeswar-ch/)  
+
+📧 **Email:** [chennamsetti.y@northeastern.edu](mailto:chennamsetti.y@northeastern.edu)  
+🔗 **LinkedIn:** [Yateeswar Chennamsetti](https://www.linkedin.com/in/yateeswar-ch/)
