@@ -42,20 +42,6 @@ Passionate about **cloud computing, AI/ML, and DevOps**, I actively work on opti
 
 ---
 
-## 💼 Work Experience
-
-### **AWS Cloud Architect | [Your Company Name] | [Dates]**
-- Designed and deployed **highly available, secure cloud architectures** using AWS services.
-- Led **cloud migration projects**, optimizing infrastructure for **scalability and cost-efficiency**.
-- Implemented **serverless solutions** using AWS Lambda, API Gateway, and DynamoDB.
-- Automated **CI/CD pipelines** using Jenkins and AWS CodePipeline.
-
-### **Cloud Engineering Intern | [Previous Company] | [Dates]**
-- Assisted in **cloud resource optimization**, reducing AWS costs by **25%**.
-- Developed **automated security policies** using AWS IAM and CloudTrail.
-
----
-
 ## 📜 Certifications
 
 - **AWS Certified Solutions Architect – Associate**  
